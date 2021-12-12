@@ -5,10 +5,12 @@
 ## projects:
 ### warning: some may be dogcrap.
 
+```
+maven:
+- fired lol
 
-## maven:
-### fired :(
+A-World:
+- coming soon? idk what it is
+```
 
-## A-World:
-### incoming bomb? take cover
  
