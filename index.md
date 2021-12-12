@@ -3,11 +3,11 @@
 
 
 ## projects:
-# warning: some may be dogcrap.
+### warning: some may be dogcrap.
 
 **maven:**
-# fired :(
+### fired :(
 
 **A-World**
-# incoming bomb? take cover
+### incoming bomb? take cover
  
