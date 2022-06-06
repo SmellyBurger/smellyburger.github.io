@@ -1,5 +1,4 @@
 # Mostly minecraft
-### uwu dont make fun of me
 
 
 ### Established: Cookie factory server (Working on) #MC 
