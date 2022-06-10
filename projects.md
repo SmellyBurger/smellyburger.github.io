@@ -1,3 +1,3 @@
 # My Projects:
-> Established: Cookie factory server (Working on)
-> Smelly Assets: Minecraft mod that adds cream & cream energy! (Eradicated)
+###### Established: Cookie factory server (Working on)
+###### Smelly Assets: Minecraft mod that adds cream & cream energy! (Eradicated)
