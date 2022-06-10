@@ -4,4 +4,5 @@
 ## Skript:
 > Example coming soon...
 ## Formatting:
-> ![Formatting 1](/assets/miner.png) ![Formatting 2](/assets/action.png)
+> ![Formatting 1](/assets/miner.png) 
+> ![Formatting 2](/assets/action.png)
